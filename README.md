@@ -3,9 +3,9 @@
 
 ---
 
-🚀 Passionate about building scalable and intelligent web applications using **Python**, **Django**, **React**, and **OpenAI APIs**.  
-💡 Backend-first thinker with a strong foundation in system architecture, clean code, and database design.  
-🌱 Currently exploring advanced AI integrations and scalable microservices.
+- Passionate about building scalable and intelligent web applications using **Python**, **Django**, **React**, and **OpenAI APIs**.  
+- Backend-first thinker with a strong foundation in system architecture, clean code, and database design.  
+- Currently exploring advanced AI integrations and scalable microservices.
 
 ---
 
@@ -51,7 +51,7 @@
 
 ### 🏆 Certifications
 
-- MERN Stack Developer – Camerin Folks Pvt. Ltd.  
+- MERN Stack Internship Certificate – Camerin Folks Pvt. Ltd.  
 - PHP & Laravel Add-On Course  
 - NPTEL – Industry 4.0 & IoT
 
